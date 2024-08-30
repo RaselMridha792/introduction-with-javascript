@@ -1,4 +1,4 @@
-// 1. no keyword in variable name
+// 1. no reserved keyword in variable name
 // var false = 50;
 // var var = 40;
 
